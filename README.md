@@ -1,38 +1,54 @@
 ### Hi there, I'm Jan Victornino Grundl 👋
 
-*M.Sc. Computer Science Student | AI & LLM Engineer | IoT Solution Architect*
+*M.Sc. Computer Science Student | Student Research Assistant | AI & IoT Developer*
 
-I am a researcher and developer bridging the gap between **Artificial Intelligence**, **IoT**, and **Software Architecture**. Based in Rostock, I split my time between building semi-autonomous LLM-Agents in academia and architecting industrial-scale telematics systems.
+I am a computer science Master's student with a passion for **Artificial Intelligence**, **IoT**, and **Software Engineering**. Based in Rostock, I split my time between my studies, working as a student research assistant, and tackling practical, real-world software and hardware projects.
 
 ### 🚀 What I'm Doing
 
 * 🎓 **Studying:** M.Sc. Computer Science at the **Universität Rostock**
-* 🔬 **Researching:** AI applications for animal welfare at **Fraunhofer IGD** (KI Tierwohl) and developing LLM-Agents at **Uni Rostock**
-* 💼 **Consulting:** Serving as a Solution Architect for **Nordwasser GmbH**, designing telematics architectures to optimize a ~200-vehicle fleet
-* 🌱 **Building:** Lead open-source developer for **NALA-AI**, creating IoT-based water quality monitoring systems for smart cities
+* 🔬 **Researching:** Student Research Assistant at **Fraunhofer IGD** (working on IoT & ML for the "KI Tierwohl" project) and at **Uni Rostock** (exploring semi-autonomous LLM-Agents)
+* 💻 **Student Project:** Designed a telematics solution architecture during a transfer project with **Nordwasser GmbH** to help optimize a ~200-vehicle fleet
+* 🌱 **Building:** Open-source developer for **NALA-AI**, focusing on IoT-based water quality monitoring systems
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**AI, Machine Learning & LLMOps**
+**Programming Languages** 
+
+
+
+
+
+
+**AI, Machine Learning & LLMOps** 
+
+
 
 * **LLM Inference & Frameworks:** LangChain, LangGraph, Ollama, vLLM, LiteLLM, TensorRT-LLM
 * **Techniques:** ReAct Agents, Tool Use/Function Calling, RAG, LoRA/PEFT
-* **Computer Vision:** CVAT, 3D Slicer, Sensor Fusion
+* **Computer Vision & Data:** CVAT, 3D Slicer, Sensor Fusion
 
-**Software Engineering & Fullstack**
+**Software Engineering, Fullstack & Databases** 
+
+
+
+
 
 * **Frontend/UI:** Vue.js, React, TailwindCSS
+* **Databases:** SQL (PostgreSQL, MySQL), SQLite, NoSQL (MongoDB)
 * **Architecture:** UML Modeling, Microservices, REST/gRPC, System Design
 
-**Hardware & IoT**
+**Hardware & IoT** 
+
+
 
 * **Domain:** Telematics (EOBD/FMS), Smart Agriculture, Edge Computing
 
 ---
 
-### 🌐 Languages
+### 🌐 Spoken Languages
 
 * 🇩🇪 **German** (Native)
 * 🇬🇧 **English** (Fluent/C1)
