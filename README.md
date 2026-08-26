@@ -15,7 +15,7 @@ I am a computer science Master's student with a passion for **Artificial Intelli
 
 ### 🛠️ Tech Stack & Tools
 
-**Programming Languages** 
+**Programming Languages**: Python, Java, Rust, C/C++, C#, Delphi (for migration purposes), JS, TS
 
 
 
