@@ -38,7 +38,7 @@ I am a computer science Master's student with a passion for **Artificial Intelli
 
 * **Frontend/UI:** Vue.js, React, TailwindCSS
 * **Databases:** SQL (PostgreSQL, MySQL), SQLite, NoSQL (MongoDB)
-* **Architecture:** UML Modeling, Microservices, REST/gRPC, System Design
+* **Architecture:** UML Modeling, Microservices/strcutured Monolith applications, SOAP/REST/gRPC, System Design
 
 **Hardware & IoT** 
 
