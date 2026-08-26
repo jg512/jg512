@@ -1,15 +1,15 @@
-### Hi there, I'm Jan Victornino Grundl 👋
+### Hi there, I'm Jan 👋
 
-*M.Sc. Computer Science Student | Student Research Assistant | AI & IoT Developer*
+*M.Sc. Computer Science Student | Student Research Assistant | AI & IoT and Software Developer*
 
 I am a computer science Master's student with a passion for **Artificial Intelligence**, **IoT**, and **Software Engineering**. Based in Rostock, I split my time between my studies, working as a student research assistant, and tackling practical, real-world software and hardware projects.
 
 ### 🚀 What I'm Doing
 
 * 🎓 **Studying:** M.Sc. Computer Science at the **Universität Rostock**
-* 🔬 **Researching:** Student Research Assistant at **Fraunhofer IGD** (working on IoT & ML for the "KI Tierwohl" project) and at **Uni Rostock** (exploring semi-autonomous LLM-Agents)
-* 💻 **Transfer Project:** Designed a telematics solution architecture during a transfer project with **Nordwasser GmbH** to help optimize a ~200-vehicle fleet
-* 🌱 **Building:** Open-source developer for **NALA-AI**, focusing on IoT-based water quality monitoring systems
+* 🔬 **Researching:** Student Research Assistant at **Fraunhofer IGD** (working on IoT & ML for the "KI Tierwohl" project) and at **Uni Rostock** (exploring LLM-Agents)
+* 💻 **Transfer Project:** Designed a telematics solution architecture during a transfer project with **Nordwasser GmbH** to help optimize a ~138-vehicle fleet
+* 🌱 **Building:** Open-source developer for **NALA-AI**, focusing on IoT-based water quality monitoring systems and Software Developer at Yachthafenresidenz Hohe Düne, planning and developing a new ERP system, that replaces the old one
 
 ---
 
@@ -44,14 +44,14 @@ I am a computer science Master's student with a passion for **Artificial Intelli
 
 
 
-* **Domain:** Telematics (EOBD/FMS), Smart Agriculture, Edge Computing
+* **Domain:** Telematics (EOBD/FMS), Smart Agriculture, Edge Computing, ERP Systems and Legacy Migration
 
 ---
 
 ### 🌐 Spoken Languages
 
 * 🇩🇪 **German** (Native)
-* 🇬🇧 **English** (Fluent/C1)
+* 🇬🇧 **English** (Fluent/C1 officially)
 * 🇪🇸 **Spanish** (Basic)
 
 ---
