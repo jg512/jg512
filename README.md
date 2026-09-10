@@ -1,15 +1,15 @@
 ### Hi there, I'm Jan 👋
 
-*M.Sc. Computer Science Student | Student Research Assistant | AI & IoT and Software Developer*
+*M.Sc. Computer Science Student | Student Research Assistant | AI & IoT and Software Engineer*
 
-I am a computer science Master's student with a passion for **Artificial Intelligence**, **IoT**, and **Software Engineering**. Based in Rostock, I split my time between my studies, working as a student research assistant, and tackling practical, real-world software and hardware projects.
+I am a computer science Master's student with a passion for **Artificial Intelligence**, **IoT**, and **Software Engineering**. Based in Rostock, I split my time between my studies, working as a student research assistant and software engineer - tackling practical, real-world software and hardware projects.
 
 ### 🚀 What I'm Doing
 
 * 🎓 **Studying:** M.Sc. Computer Science at the **Universität Rostock**
 * 🔬 **Researching:** Student Research Assistant at **Fraunhofer IGD** (working on IoT & ML for the "KI Tierwohl" project) and at **Uni Rostock** (exploring LLM-Agents)
 * 💻 **Transfer Project:** Designed a telematics solution architecture during a transfer project with **Nordwasser GmbH** to help optimize a ~138-vehicle fleet
-* 🌱 **Building:** Open-source developer for **NALA-AI**, focusing on IoT-based water quality monitoring systems and Software Developer at **Yachthafenresidenz Hohe Düne**, planning and developing a new ERP system for one of Germany's biggest private marinas
+* 🌱 **Building:** Open-source developer for **NALA-AI**, focusing on IoT-based water quality monitoring systems and Software Engineer at **Yachthafenresidenz Hohe Düne**, planning and developing a new ERP system for one of Germany's biggest private marinas
 
 ---
 
@@ -36,8 +36,8 @@ I am a computer science Master's student with a passion for **Artificial Intelli
 
 
 
-* **Frontend/UI:** Vue.js, React, TailwindCSS
-* **Databases:** SQL (PostgreSQL, MySQL), SQLite, NoSQL (MongoDB)
+* **Frontend/UI:** Vue.js, React, TailwindCSS, JS, HTMX/HTML
+* **Databases:** SQL (PostgreSQL, MySQL, TimescaleDB), SQLite, NoSQL (MongoDB, InfluxDB)
 * **Architecture:** UML Modeling, Microservices/strcutured Monolith applications, SOAP/REST/gRPC, System Design
 
 **Hardware & IoT** 
