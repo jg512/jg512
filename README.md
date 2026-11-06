@@ -1,11 +1,5 @@
 ### Hi there, I'm Jan 👋
 
-### 🌐 Spoken Languages
-
-* 🇩🇪 **German** (Native)
-* 🇬🇧 **English** (Fluent/C1 officially)
-* 🇪🇸 **Spanish** (Basic)
-
 ---
 
  ### 📫 Let's Connect!
